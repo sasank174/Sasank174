@@ -10,9 +10,8 @@
 [![Years Badge](https://badges.pufler.dev/years/sasank174)](https://badges.pufler.dev)
 [![Repos Badge](https://badges.pufler.dev/repos/sasank174)](https://badges.pufler.dev)
 
-<br>
-<br>
-
+<p align="center"><img src="images\tech.png" width="500px"></p>
+<br><br>
 - 🌱 I’m currently learning **ML and app development**
 
 - 🔭 I just started teaching: [web development][course]!
