@@ -7,8 +7,8 @@
 
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=sasank174.visitor-badge&left_color=grey&right_color=blue&left_text=Visitors+Count)
-[![Years Badge](https://badges.pufler.dev/years/sasank174)](https://badges.pufler.dev)
-[![Repos Badge](https://badges.pufler.dev/repos/sasank174)](https://badges.pufler.dev)
+[![Years Badge](https://badges.pufler.dev/years/sasank174)](https://badges.pufler.dev/years/sasank174)
+[![Repos Badge](https://badges.pufler.dev/repos/sasank174)](https://badges.pufler.dev/repos/sasank174)
 
 <p align="center"><img src="images\tech.png" width="500px"></p>
 <br><br>
