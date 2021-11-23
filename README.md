@@ -2,13 +2,13 @@
 <h3 align="center">A passionate developer from India</h3>
 <br>
 
-[![Website](https://img.shields.io/badge/Website-informational?style=for-the-badge&logo=battledotnet&logoColor=white)](https://github.com/sasank174)
+[![Website](https://img.shields.io/badge/Website-informational?style=for-the-badge&logo=battledotnet&logoColor=white)](https://github.com/Sasank174)
 
 
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=sasank174.visitor-badge&left_color=grey&right_color=blue&left_text=Visitors+Count)
-[![Years Badge](https://badges.pufler.dev/years/sasank174)](https://badges.pufler.dev/years/sasank174)
-[![Repos Badge](https://badges.pufler.dev/repos/Sasank174)](https://badges.pufler.dev/repos/sasank174)
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Sasank174.visitor-badge&left_color=grey&right_color=blue&left_text=Visitors+Count)
+[![Years Badge](https://badges.pufler.dev/years/Sasank174)](https://badges.pufler.dev/years/Sasank174)
+[![Repos Badge](https://badges.pufler.dev/repos/Sasank174)](https://badges.pufler.dev/repos/Sasank174)
 
 <p align="center"><img src="images\tech.png" width="500px"></p>
 <br><br>
@@ -16,11 +16,11 @@
 
 - 🔭 I just started teaching: [web development][course]!
 
-- 👨‍💻 All of my projects are available at [here](https://github.com/sasank174?tab=repositories)
+- 👨‍💻 All of my projects are available at [here](https://github.com/Sasank174?tab=repositories)
 
 - 📫 How to reach me **perumallasasank123@gmail.com**
 
-- 📄 Know about my experiences [Here](https://github.com/sasank174/profile/blob/main/Profile.pdf)
+- 📄 Know about my experiences [Here](https://github.com/Sasank174/profile/blob/main/Profile.pdf)
 
 <br>
 
