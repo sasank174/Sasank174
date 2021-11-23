@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer from India</h3>
 <br>
 
-[![Website](https://img.shields.io/badge/Website-informational?style=for-the-badge&logo=battledotnet&logoColor=white)](https://sasank174.github.io)
+[![Website](https://img.shields.io/badge/Website-informational?style=for-the-badge&logo=battledotnet&logoColor=white)](https://github.com/sasank174)
 
 
 
@@ -16,11 +16,11 @@
 
 - 🔭 I just started teaching: [web development][course]!
 
-- 👨‍💻 All of my projects are available at [here](https://github.com/sasank174/NPSS-web)
+- 👨‍💻 All of my projects are available at [here](https://github.com/sasank174?tab=repositories)
 
 - 📫 How to reach me **perumallasasank123@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/sasank174/NPSS-web](https://github.com/sasank174/NPSS-web)
+- 📄 Know about my experiences [Here](https://github.com/sasank174/profile/blob/main/Profile.pdf)
 
 <br>
 
