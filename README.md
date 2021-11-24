@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="./images/hai.webp" width="28">, I'm sasank</h1>
+<h1 align="center">Hi <img src="images/hai.webp" width="28">, I'm sasank</h1>
 <h3 align="center">A passionate developer from India</h3>
 <br>
 
@@ -7,10 +7,10 @@
 
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=sasank174.visitor-badge&left_color=grey&right_color=blue&left_text=Visitors+Count)
-[![Years Badge](https://badges.pufler.dev/years/Sasank174)](https://badges.pufler.dev/years/Sasank174)
-[![Repos Badge](https://badges.pufler.dev/repos/Sasank174)](https://badges.pufler.dev/repos/Sasank174)
+[![Years Badge](https://badges.pufler.dev/years/sasank174)](https://badges.pufler.dev/years/sasank174)
+[![Repos Badge](https://badges.pufler.dev/repos/sasank174)](https://badges.pufler.dev/repos/sasank174)
 
-<p align="center"><img src="images\tech.png" width="500px"></p>
+<p align="center"><img src="images/tech.png" width="500px"></p>
 <br><br>
 - 🌱 I’m currently learning **ML and app development**
 
@@ -24,7 +24,7 @@
 
 <br>
 
-# <img src="images\whome.gif" width="30"> Connect with me
+# <img src="images/whome.gif" width="30"> Connect with me
 
 <p>
 
