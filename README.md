@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="images\hai.webp" width="28">, I'm sasank</h1>
+<h1 align="center">Hi <img src="./images/hai.webp" width="28">, I'm sasank</h1>
 <h3 align="center">A passionate developer from India</h3>
 <br>
 
