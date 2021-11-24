@@ -87,7 +87,7 @@
 
 <img alt="Sasank's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Sasank174&show_icons=true&title_color=130F40&icon_color=130F40&bg_color=45,89ff01,87ceeb">
 <img alt="sasank's most used languagues" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sasank174&langs_count=10&layout=compact&card_width=445&custom_title=Sasank%27s%20Most%20Used%20Languagues&bg_color=45,89ff01,87ceeb&title_color=130F40" alt="sasank174" />
-<img alt="Sasank174's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Sasank174&bg_color=FFFFFF&color=2c3e50&line=0984e3&point=2d3436&area=true&area_color=2c3e50&hide_border=true&" />
+<img alt="Sasank174's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Sasank174&bg_color=FFFFFF&color=2c3e50&line=0984e3&point=2d3436&area=true&area_color=2c3e50&hide_border=true">
 
 ## 🔥 Streak stats
 <img alt="Sasank's GitHub stats" src="http://github-readme-streak-stats.herokuapp.com/?user=Sasank174&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
