@@ -2,8 +2,11 @@
 <h3 align="center">A passionate developer from India</h3>
 <br>
 
+<h3 align="center">
+
 [![Website](https://img.shields.io/badge/Website-informational?style=for-the-badge&logo=battledotnet&logoColor=white)](https://github.com/Sasank174)
 
+</h3>
 
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=sasank174.visitor-badge&left_color=grey&right_color=blue&left_text=Visitors+Count)
