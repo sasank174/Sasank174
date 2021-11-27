@@ -8,23 +8,27 @@
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=sasank174.visitor-badge&left_color=grey&right_color=blue&left_text=Visitors+Count)
 [![Years Badge](https://badges.pufler.dev/years/Sasank174)](https://badges.pufler.dev/years/Sasank174)
-[![Repos Badge](https://badges.pufler.dev/repos/Sasank174)](https://badges.pufler.dev/repos/Sasank174)
+[![Repos Badge](https://badges.pufler.dev/repos/Sasank174)](https://badges.pufler.dev/repos/sasank174)
 
 <p align="center"><img src="images/tech.png" width="500px"></p>
 <br><br>
 - 🌱 I’m currently learning **ML and app development**
 
-- 🔭 I just started teaching: [web development][course]!
+- 🔭 I just started teaching: [web development](https://sasank174.github.io/NPSS-web)
 
-- 👨‍💻 All of my projects are available at [here](https://github.com/Sasank174?tab=repositories)
+- 👨‍💻 All of my projects are available [here](https://github.com/Sasank174?tab=repositories)
 
-- 📫 How to reach me **perumallasasank123@gmail.com**
+- 📫 You can reach me at **[perumallasasank123@gmail.com](mailto:perumallasasank123@gmail.com)**
 
 - 📄 Know about my experiences [Here](https://github.com/Sasank174/profile/blob/main/Profile.pdf)
 
 <br>
 
-# <img src="images/whome.gif" width="30"> Connect with me
+<h1 align="center">
+
+<img src="images/whome.gif" width="30"> Connect with me
+
+</h1>
 
 <p>
 
@@ -85,17 +89,9 @@
 
 ## 📊 Github stats
 
-<img alt="Sasank's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Sasank174&show_icons=true&title_color=130F40&icon_color=130F40&bg_color=45,89ff01,87ceeb">
-<img alt="sasank's most used languagues" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sasank174&langs_count=10&layout=compact&card_width=445&custom_title=Sasank%27s%20Most%20Used%20Languagues&bg_color=45,89ff01,87ceeb&title_color=130F40" alt="sasank174" />
-<img alt="Sasank174's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Sasank174&bg_color=FFFFFF&color=2c3e50&line=0984e3&point=2d3436&area=true&area_color=2c3e50&hide_border=true">
+[![Sasank's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sasank174&title_color=ff8800&text_color=FDFDFD&icon_color=ff8800&hide_border=true&bg_color=151515&show_icons=true&include_all_commits=true&count_private=true&custom_title=Sasank%27s+GitHub+stats&line_height=29)](https://github-readme-stats.vercel.app/api?username=Sasank174&title_color=ff8800&text_color=FDFDFD&icon_color=ff8800&hide_border=true&bg_color=151515&show_icons=true&include_all_commits=true&count_private=true&custom_title=Sasank%27s+GitHub+stats)
+[![sasank's most used languagues](https://github-readme-stats.vercel.app/api/top-langs/?username=Sasank174&langs_count=10&layout=compact&custom_title=Sasank%27s+Most+used+Languagues&bg_color=151515&title_color=ff8800&text_color=FDFDFD&hide_border=true)](https://github-readme-stats.vercel.app/api/top-langs/?username=Sasank174&langs_count=10&layout=compact&custom_title=Sasank%27s+Most+used+Languagues&bg_color=151515&title_color=ff8800&text_color=FDFDFD&hide_border=true)
+[![Sasank's Activity Graph](https://activity-graph.herokuapp.com/graph?username=Sasank174&bg_color=151515&color=FDFDFD&line=ff8800&point=FDFDFD&area_color=FDFDFD&area=true&hide_border=true&custom_title=Sasank%27s+Activity+Graph)](https://activity-graph.herokuapp.com/graph?username=Sasank174&bg_color=151515&color=FDFDFD&line=ff8800&point=FDFDFD&area_color=FDFDFD&area=true&hide_border=true&custom_title=Sasank%27s+Activity+Graph)
 
 ## 🔥 Streak stats
-<img alt="Sasank's GitHub stats" src="http://github-readme-streak-stats.herokuapp.com/?user=Sasank174&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
-
-
-
-[website]: https://sasank174.github.io/my-profile/
-[course]: https://sasank174.github.io/NPSS-web/
-[instagram]: https://www.instagram.com/sasank174/
-[linkedin]: https://www.linkedin.com/in/perumalla-sasank-07843b207
-[github]: https://github.com/sasank174
+[![Sasank's GitHub stats](http://github-readme-streak-stats.herokuapp.com/?user=Sasank174&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](http://github-readme-streak-stats.herokuapp.com/?user=Sasank174&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
