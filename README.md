@@ -91,11 +91,13 @@
 <img alt="androidstudio" src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white">
 </p>
 
-## 📊 Github stats
+<h1 align="center">
+
+🔥 Github Streak & stats 📊
+
+</h1>
 
 [![Sasank's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sasank174&title_color=ff8800&text_color=FDFDFD&icon_color=ff8800&hide_border=true&bg_color=151515&show_icons=true&include_all_commits=true&count_private=true&custom_title=Sasank%27s+GitHub+stats&line_height=29)](https://github-readme-stats.vercel.app/api?username=Sasank174&title_color=ff8800&text_color=FDFDFD&icon_color=ff8800&hide_border=true&bg_color=151515&show_icons=true&include_all_commits=true&count_private=true&custom_title=Sasank%27s+GitHub+stats)
 [![sasank's most used languagues](https://github-readme-stats.vercel.app/api/top-langs/?username=Sasank174&langs_count=10&layout=compact&custom_title=Sasank%27s+Most+used+Languagues&bg_color=151515&title_color=ff8800&text_color=FDFDFD&hide_border=true&card_width=445)](https://github-readme-stats.vercel.app/api/top-langs/?username=Sasank174&langs_count=10&layout=compact&custom_title=Sasank%27s+Most+used+Languagues&bg_color=151515&title_color=ff8800&text_color=FDFDFD&hide_border=true)
-[![Sasank's Activity Graph](https://activity-graph.herokuapp.com/graph?username=Sasank174&bg_color=151515&color=FDFDFD&line=ff8800&point=FDFDFD&area_color=FDFDFD&area=true&hide_border=true&custom_title=Sasank%27s+Activity+Graph)](https://activity-graph.herokuapp.com/graph?username=Sasank174&bg_color=151515&color=FDFDFD&line=ff8800&point=FDFDFD&area_color=FDFDFD&area=true&hide_border=true&custom_title=Sasank%27s+Activity+Graph)
-
-## 🔥 Streak stats
 [![Sasank's GitHub stats](http://github-readme-streak-stats.herokuapp.com/?user=Sasank174&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](http://github-readme-streak-stats.herokuapp.com/?user=Sasank174&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
+[![Sasank's Activity Graph](https://activity-graph.herokuapp.com/graph?username=Sasank174&bg_color=151515&color=FDFDFD&line=ff8800&point=FDFDFD&area_color=FDFDFD&area=true&hide_border=true&custom_title=Sasank%27s+Activity+Graph)](https://activity-graph.herokuapp.com/graph?username=Sasank174&bg_color=151515&color=FDFDFD&line=ff8800&point=FDFDFD&area_color=FDFDFD&area=true&hide_border=true&custom_title=Sasank%27s+Activity+Graph)
