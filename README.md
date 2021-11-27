@@ -6,12 +6,13 @@
 
 [![Website](https://img.shields.io/badge/Website-informational?style=for-the-badge&logo=battledotnet&logoColor=white)](https://github.com/Sasank174)
 
-</h3>
 
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=sasank174.visitor-badge&left_color=grey&right_color=blue&left_text=Visitors+Count)
 [![Years Badge](https://badges.pufler.dev/years/Sasank174)](https://badges.pufler.dev/years/Sasank174)
 [![Repos Badge](https://badges.pufler.dev/repos/Sasank174)](https://badges.pufler.dev/repos/sasank174)
+
+</h3>
 
 <p align="center"><img src="images/tech.png" width="500px"></p>
 <br><br>
