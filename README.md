@@ -38,12 +38,14 @@
 
 [<img alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35">](mailto:perumallasasank123@gmail.com)
 [<img alt="gmail" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white" height="35">](https://wa.me/918106623632)
+[<img alt="gmail" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="35">](https://github.com/sasank174)
+[<img alt="gmail" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35">](https://www.linkedin.com/in/perumalla-sasank-07843b207/)
 [<img alt="gmail" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="35">](https://t.me/Sasank174)
-[<img alt="gmail" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" height="35">](https://stackoverflow.com/users/14859365/sasank174)
+[<img alt="gmail" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" height="35">](https://www.hackerrank.com/Sasank174?hr_r=1)
 [<img alt="gmail" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="35">](https://www.facebook.com/perumalla.sasank)
 [<img alt="gmail" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35">](https://www.instagram.com/sasank174/)
-[<img alt="gmail" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35">](https://www.linkedin.com/in/perumalla-sasank-07843b207/)
-[<img alt="gmail" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="35">](https://github.com/sasank174)
+[<img alt="gmail" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" height="35">](https://stackoverflow.com/users/14859365/sasank174)
+
 
 </p>
 
