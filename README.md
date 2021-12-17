@@ -11,8 +11,11 @@
 <!-- [![Years Badge](https://badges.pufler.dev/years/Sasank174)](https://badges.pufler.dev/years/Sasank174) -->
 <!-- [![Years Badge](https://badges.pufler.dev/repos/sasank174?)](https://github.com/sasank174?tab=repositories) -->
 <!-- <img src = "https://badges.pufler.dev/repos/sasank174?"> -->
-  
-<img src="https://visitor-badge.glitch.me/badge?page_id=sasank174.visitor-badge&left_text=Visitors&right_color=black,left_color=grey">
+<!-- <img src="https://visitor-badge.glitch.me/badge?page_id=sasank174.visitor-badge&left_text=Visitors&right_color=black,left_color=grey"> -->
+
+
+
+<img src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=sasank174&style=flat-square&color=black&logo=github">
 <img src="https://badges.pufler.dev/years/Sasank174?style=flat-square&color=black&logo=github">
 <img src="https://badges.pufler.dev/repos/sasank174?style=flat-square&color=black&logo=github">
 
