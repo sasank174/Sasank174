@@ -38,10 +38,6 @@
 - 📄 Know about my experiences [Here](https://github.com/Sasank174/profile/blob/main/Profile.pdf)
 ---
 
-
-
-<br>
-
 <h1 align="center">
 
 <img src="images/whome.gif" width="30"> Connect with me
