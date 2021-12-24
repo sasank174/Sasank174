@@ -22,8 +22,11 @@
 
 </h3>
 
-<p align="center"><img src="images/tech.png" width="500px"></p>
+<!-- <p align="center"><img src="images/tech.png" width="500px"></p> -->
 <br><br>
+
+
+<img align="right" src="images/tech.png" width="400px">
 - 🌱 I’m currently learning **ML and app development**
 
 - 🔭 I just started teaching: [web development](https://sasank174.github.io/NPSS-web)
@@ -33,6 +36,9 @@
 - 📫 You can reach me at **[perumallasasank123@gmail.com](mailto:perumallasasank123@gmail.com)**
 
 - 📄 Know about my experiences [Here](https://github.com/Sasank174/profile/blob/main/Profile.pdf)
+---
+
+
 
 <br>
 
