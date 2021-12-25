@@ -6,27 +6,23 @@
 
 [![Website](https://img.shields.io/badge/Website-informational?style=for-the-badge&logo=battledotnet&logoColor=white)](https://github.com/Sasank174)
 
-<!-- temp -->
 <!-- ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=sasank174.visitor-badge&left_color=grey&right_color=blue&left_text=Visitors+Count) -->
 <!-- [![Years Badge](https://badges.pufler.dev/years/Sasank174)](https://badges.pufler.dev/years/Sasank174) -->
 <!-- [![Years Badge](https://badges.pufler.dev/repos/sasank174?)](https://github.com/sasank174?tab=repositories) -->
 <!-- <img src = "https://badges.pufler.dev/repos/sasank174?"> -->
 <!-- <img src="https://visitor-badge.glitch.me/badge?page_id=sasank174.visitor-badge&left_text=Visitors&right_color=black,left_color=grey"> -->
 
-
-
 <img src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=sasank174&style=flat-square&color=black&logo=github">
 <img src="https://badges.pufler.dev/years/Sasank174?style=flat-square&color=black&logo=github">
 <img src="https://badges.pufler.dev/repos/sasank174?style=flat-square&color=black&logo=github&d=sa">
-
 
 </h3>
 
 <!-- <p align="center"><img src="images/tech.png" width="500px"></p> -->
 <br><br>
 
-
-<img align="right" src="images/tech.png" width="400px">
+<img align="right" src="images/tech.png" width="350px">
+<p align="left">
 - 🌱 I’m currently learning **ML and app development**
 
 - 🔭 I just started teaching: [web development](https://sasank174.github.io/NPSS-web)
@@ -36,6 +32,8 @@
 - 📫 You can reach me at **[perumallasasank123@gmail.com](mailto:perumallasasank123@gmail.com)**
 
 - 📄 Know about my experiences [Here](https://github.com/Sasank174/profile/blob/main/Profile.pdf)
+
+</p>
 
 ---
 
