@@ -23,6 +23,7 @@
 
 <img align="right" src="images/tech.png" width="350px">
 <p align="left">
+
 - 🌱 I’m currently learning **ML and app development**
 
 - 🔭 I just started teaching: [web development](https://sasank174.github.io/NPSS-web)
