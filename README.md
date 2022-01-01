@@ -14,7 +14,7 @@
 
 <img src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=sasank174&style=flat-square&color=black&logo=github">
 <img src="https://badges.pufler.dev/years/Sasank174?style=flat-square&color=black&logo=github">
-<img src="https://badges.pufler.dev/repos/sasank174?style=flat-square&color=black&logo=github&d=sa">
+<img src="https://badges.pufler.dev/repos/sasank174?style=flat-square&color=black&logo=github&d=ssaa">
 
 </h3>
 
