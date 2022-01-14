@@ -4,7 +4,7 @@
 
 <h3 align="center">
 
-[![Website](https://img.shields.io/badge/Website-informational?style=for-the-badge&logo=battledotnet&logoColor=white)](https://github.com/Sasank174)
+[![Website](https://img.shields.io/badge/Website-informational?style=for-the-badge&logo=battledotnet&logoColor=white)](https://sasank174.github.io/)
 
 <!-- ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=sasank174.visitor-badge&left_color=grey&right_color=blue&left_text=Visitors+Count) -->
 <!-- [![Years Badge](https://badges.pufler.dev/years/Sasank174)](https://badges.pufler.dev/years/Sasank174) -->
