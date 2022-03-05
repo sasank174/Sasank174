@@ -16,7 +16,7 @@
 <!-- <img src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=sasank174&style=flat-square&color=black&logo=github&h=1"> -->
 ![visitor badge](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=sasank174&style=flat-square&color=black&logo=github&pkas=4052)
 [![Website](https://badges.pufler.dev/years/Sasank174?style=flat-square&color=black&logo=github)](https://badges.pufler.dev/years/Sasank174?style=flat-square&color=black&logo=github)
-[![Website](https://badges.pufler.dev/repos/sasank174?style=flat-square&color=black&logo=github&no=28)](https://badges.pufler.dev/repos/sasank174?style=flat-square&color=black&logo=github)
+[![Website](https://badges.pufler.dev/repos/sasank174?style=flat-square&color=black&logo=github&no=29)](https://badges.pufler.dev/repos/sasank174?style=flat-square&color=black&logo=github)
 <!-- <img src="https://badges.pufler.dev/years/Sasank174?style=flat-square&color=black&logo=github">
 <img src="https://badges.pufler.dev/repos/sasank174?style=flat-square&color=black&logo=github&no=25"> -->
 
