@@ -1,12 +1,15 @@
-<h1 align="center">Hi <img src="images/hai.webp" width="28">, I'm sasank</h1>
+<!-- <h1 align="center">Hi <img src="images/hai.webp" width="28">, I'm sasank</h1>
 <h3 align="center">A passionate developer from India</h3>
-<br>
+<br> -->
 
 <h3 align="center">
+  
+  [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=sasank174&data=followers,repositories,stars,commits)](https://github.com/sasank174)
 
 [![Website](https://img.shields.io/badge/Website-informational?style=for-the-badge&logo=battledotnet&logoColor=white)](https://sasank174.github.io/)
 
-<!-- ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=sasank174.visitor-badge&left_color=grey&right_color=blue&left_text=Visitors+Count) -->
+
+  <!-- ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=sasank174.visitor-badge&left_color=grey&right_color=blue&left_text=Visitors+Count) -->
 <!-- [![Years Badge](https://badges.pufler.dev/years/Sasank174)](https://badges.pufler.dev/years/Sasank174) -->
 <!-- [![Years Badge](https://badges.pufler.dev/repos/sasank174)](https://github.com/sasank174?tab=repositories) -->
 <!-- <img src = "https://badges.pufler.dev/repos/sasank174?"> -->
